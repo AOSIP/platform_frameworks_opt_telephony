@@ -710,7 +710,7 @@ public class SubscriptionInfoUpdater extends Handler {
 
         mCurrentSimCount = insertedSimCount;
 
-        if (!mIsShutdown && insertedSimCount == 1) {
+        if (!mIsShutdown && insertedSimCount == 1 && nSubCount != 0) {
             SubscriptionInfo sir = subInfos.get(0);
             int subId = sir.getSubscriptionId();
             mSubscriptionManager.setDefaultDataSubId(subId);
