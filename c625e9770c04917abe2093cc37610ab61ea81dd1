@@ -33,6 +33,23 @@
       "message": "Successfully resolved my lack of dual sim capability and fixed my service for my 2nd sim which is verizon. successful on my oneplus 8T kebab",
       "revId": "c625e9770c04917abe2093cc37610ab61ea81dd1",
       "serverId": "44769751-fbfc-497d-9c9a-4bb318a4117c"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab517355_5c679acd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000314
+      },
+      "writtenOn": "2021-04-08T04:20:44Z",
+      "side": 1,
+      "message": "tested on op7t with visible, works fine",
+      "revId": "c625e9770c04917abe2093cc37610ab61ea81dd1",
+      "serverId": "44769751-fbfc-497d-9c9a-4bb318a4117c"
     }
   ]
 }
