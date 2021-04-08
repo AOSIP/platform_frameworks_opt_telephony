@@ -16,6 +16,23 @@
       "message": "https://review.lineageos.org/c/LineageOS/android_frameworks_opt_telephony/+/305703 merged on los a while back\n\nFixed verizon on caf devices",
       "revId": "c625e9770c04917abe2093cc37610ab61ea81dd1",
       "serverId": "44769751-fbfc-497d-9c9a-4bb318a4117c"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96dce5f1_4e932474",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2021-04-08T02:17:12Z",
+      "side": 1,
+      "message": "Successfully resolved my lack of dual sim capability and fixed my service for my 2nd sim which is verizon. successful on my oneplus 8T kebab",
+      "revId": "c625e9770c04917abe2093cc37610ab61ea81dd1",
+      "serverId": "44769751-fbfc-497d-9c9a-4bb318a4117c"
     }
   ]
 }
